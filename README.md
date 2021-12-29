@@ -1,3 +1,13 @@
-# Connor Cowher - 2322777
-# Corey Spielman - 2316074
-# Ayden Best - 2317839
+# Haskell Report
+### By Ayden Best
+### Includes Haskell Tutorial, Programming Languages Theory Section, and Mandelbrot Zoom project
+
+## Mandelbrot Zoom Project
+To run:
+
+- `runhaskell ./mandel.hs`
+
+### OR
+
+- `ghc mandel.hs`
+- `./mandel`
